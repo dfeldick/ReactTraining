@@ -1,2 +1,0 @@
-# ReactTraining
-Created with CodeSandbox
