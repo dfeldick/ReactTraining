@@ -1,5 +1,12 @@
-$brand-color: blue;
+@import './base/settings';
+@import './base/base';
 
-* {
-  color: $brand-color;
+html,
+body {
+  background-color: papayawhip;
+  font-family: sans-serif;
+
+  h1 {
+    color: tomato;
+  }
 }
